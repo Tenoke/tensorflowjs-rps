@@ -16,4 +16,10 @@ After doing the above, you can play against the model at `http://127.0.0.1:5000/
 Alternatively, you can adjust the model by running `jupyter-lab` and navigating to RPS.ipnyb
 
 
+## Demo
+
 ![Screenshot](/screenshot.png?raw=true "Screenshot")
+
+[Demo](http://svilentodorov.xyz/rps)
+
+[Associated Blog Post](http://svilentodorov.xyz/blog/rps)
